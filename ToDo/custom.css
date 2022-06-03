@@ -1,0 +1,26 @@
+html, body {
+  margin: 50;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  width: 360;
+}
+#addToDo {
+  width: 300px;
+  height: 46px;
+  border: 1px solid black;
+  outline: none;
+  font-size: 25;
+  vertical-align: middle;
+}
+#ToDoName {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  vertical-align: middle;
+  font-size: 30px;
+}
+.Do This {
+  margin-top: 25px;
+}
